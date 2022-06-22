@@ -1,0 +1,30 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "One Dark Pro",
+  "bracket-pair-colorizer-2.depreciation-notice": false,
+  "editor.minimap.enabled": false,
+  "editor.fontSize": 16,
+  "files.autoSave": "afterDelay",
+  "editor.tabSize": 2,
+  "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[scss]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "workbench.startupEditor": "none",
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.fontSize": 18,
+  "explorer.confirmDelete": false,
+  "[html]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "stylelint.validate": [
+      "css",
+      "less",
+      "postcss",
+      "scss"
+  ],
+}

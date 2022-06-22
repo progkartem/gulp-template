@@ -1,0 +1,12 @@
+// base connections
+@import "vars";
+@import "mixins";
+@import "fonts";
+@import "settings";
+
+// Components connect
+@import "./components/header";
+@import "./components/footer";
+
+// Partials connect
+@import "./partials/hero";
