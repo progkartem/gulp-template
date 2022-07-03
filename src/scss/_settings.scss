@@ -52,6 +52,7 @@ a {
 }
 
 .btn-reset {
+  outline: transparent;
   border: none;
   padding: 0;
   background: transparent;
@@ -111,6 +112,7 @@ a {
 
 .input-reset {
   -webkit-appearance: none;
+  outline: transparent;
   appearance: none;
   border: none;
   border-radius: 0;
